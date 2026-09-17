@@ -17,9 +17,9 @@ int main() {
     riseInSevenYears = RISE_PER_YEAR * 7;
     riseInTenYears = RISE_PER_YEAR * 10;
 
-    cout << "Ocean level increase after five years:" << riseInFiveYears << endl;
-    cout << "Ocean level increase after seven years:" << riseInSevenYears << endl;
-    cout << "Ocean level increase after ten years:" << riseInTenYears << endl;
+    cout << "Ocean level increase after five years: " << riseInFiveYears << " mm" endl;
+    cout << "Ocean level increase after seven years: " << riseInSevenYears << " mm" endl;
+    cout << "Ocean level increase after ten years: " << riseInTenYears << " mm" endl;
 
     return 0;
     // TIP See CLion help at <a href="https://www.jetbrains.com/help/clion/">jetbrains.com/help/clion/</a>. Also, you can try interactive lessons for CLion by selecting 'Help | Learn IDE Features' from the main menu.
