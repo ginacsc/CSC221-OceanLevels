@@ -4,7 +4,16 @@
 using namespace std;
 
 int main() {
-    // TIP Press <shortcut actionId="RenameElement"/> when your caret is at the <b>lang</b> variable name to see how CLion can help you rename it.
+
+    double RISE_PER_YEAR;
+
+    RISE_PER_YEAR = 1.5;
+
+    double riseInFiveYears;
+
+    double riseInSevenYears;
+
+    double riseInTenYears;
 
 
     return 0;
