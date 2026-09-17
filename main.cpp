@@ -10,10 +10,12 @@ int main() {
     RISE_PER_YEAR = 1.5;
 
     double riseInFiveYears;
-
     double riseInSevenYears;
-
     double riseInTenYears;
+
+    riseInFiveYears = RISE_PER_YEAR * 5;
+    riseInSevenYears = RISE_PER_YEAR * 7;
+    riseInTenYears = RISE_PER_YEAR * 10;
 
 
     return 0;
